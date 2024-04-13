@@ -14,14 +14,14 @@ Example 1:
 <img src="https://github.com/athar-ansari/JAVA-FSP/assets/118714083/e735a8e1-fd14-4d96-ba1d-b703821b2e97" width="75%">
 
 
-Input: height = [1,8,6,2,5,4,8,3,7]
+Input: height = [1,8,6,2,5,4,8,3,7]  <br>
 Output: 49
 
 Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.
 
 Example 2:
 
-Input: height = [1,1]
+Input: height = [1,1]    <br>
 Output: 1
 
 ### NOTE :-  IF YOU WANT TO RUN THIS CODE, THEN RENAME THE FILE " Problem4.md " TO " Problem4.java " .
