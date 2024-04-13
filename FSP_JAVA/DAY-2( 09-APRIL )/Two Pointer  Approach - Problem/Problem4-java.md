@@ -1,5 +1,3 @@
-// #NOTE : IF YOU WANT TO RUN THIS CODE, THEN RENAME THE FILE " Problem4.md " TO " Problem4.java " .
-
 /*
 Question : ( Container With Most Water " https://leetcode.com/problems/container-with-most-water/description/ " ) 
 
@@ -13,7 +11,7 @@ Notice that you may not slant the container.
 
 Example 1:
 
-<img src="https://github.com/athar-ansari/Amazon-Clone/assets/118714083/d4ddf137-0dfd-466c-a9cd-67ddd5df80f6" width="75%">
+<img src="https://github.com/athar-ansari/JAVA-FSP/assets/118714083/e735a8e1-fd14-4d96-ba1d-b703821b2e97" width="75%">
 
 
 Input: height = [1,8,6,2,5,4,8,3,7]
@@ -26,8 +24,13 @@ Example 2:
 Input: height = [1,1]
 Output: 1
 
+### NOTE :-  IF YOU WANT TO RUN THIS CODE, THEN RENAME THE FILE " Problem4.md " TO " Problem4.java " .
+
 */
 
+//comment-out this⤵️
+
+```
 import java.util.*;
 
 public class Problem4 { 
@@ -54,4 +57,4 @@ public class Problem4 {
     }
 }
 
-
+```

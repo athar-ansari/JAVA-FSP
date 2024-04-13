@@ -1,8 +1,10 @@
-#Sliding Window Approach
+# Sliding Window Approach
 
- <br>It is used to solve problems to find out the SubArray or substring that meets Certain Criteria.
+ <br>
+ 
+ -  It is used to solve problems to find out the SubArray or substring that meets Certain Criteria.
 
-**How it works**
+## How it works :
 <br>
 
 1. Initialize two pointers, that representing the start and end of the window, at the beginning of the array or string.

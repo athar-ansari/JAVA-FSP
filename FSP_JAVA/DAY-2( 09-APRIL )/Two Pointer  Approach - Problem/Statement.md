@@ -1,10 +1,12 @@
-#Two Pointer Approach
-<br>
- It is used mainly for searching pairs in a sorted array or linked list.
+# Two Pointer Approach
 
- This technique is particularly useful for solving problems related to finding pairs, detecting cycles, or searching for elements with specific conditions in sorted arrays or linked lists.
+
+-   It is used mainly for searching pairs in a sorted array or linked list.
+
+-  This technique is particularly useful for solving problems related to finding pairs, detecting cycles, or searching for elements with specific conditions in sorted arrays or linked lists.
 <br>
-##Approach:
+
+## Approach :
 <br>
 
 1. Initialize two pointers, typically one at the beginning and one at the end.
@@ -15,6 +17,7 @@
 
 4. Continue until the pointers meet or cross each other.
 
+## Question :
 
 Program-1 Reversing of the array
 
