@@ -20,6 +20,8 @@
 
 ### DAY-3
 
--  [STACK]()
+-  [STACK](https://github.com/athar-ansari/JAVA-FSP/tree/main/FSP%20JAVA/DAY-4(%2015-APRIL%20)/Stack%20-%20Problem)
 
--  [LINKED LIST]()
+-  [SINGLY LINKED LIST](https://github.com/athar-ansari/JAVA-FSP/tree/main/FSP%20JAVA/DAY-4(%2015-APRIL%20)/Singly%20LinkedList%20-%20Problem)
+
+-  [DOUBLY LINKED LIST](https://github.com/athar-ansari/JAVA-FSP/tree/main/FSP%20JAVA/DAY-4(%2015-APRIL%20)/Doubly%20LinkedList%20-%20Problem)
