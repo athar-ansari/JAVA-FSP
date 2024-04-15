@@ -18,3 +18,8 @@
 -  [STACK](https://github.com/athar-ansari/JAVA-FSP/tree/main/FSP%20JAVA/DAY-3(%2010-APRIL%20)/Stack%20-%20Problem)
 
 
+### DAY-3
+
+-  [STACK]()
+
+-  [LINKED LIST]()

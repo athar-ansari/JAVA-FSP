@@ -24,7 +24,7 @@ Example 2:
 Input: height = [1,1]    <br>
 Output: 1
 
-### NOTE :-  IF YOU WANT TO RUN THIS CODE, THEN RENAME THE FILE " Problem4.md " TO " Problem4.java " .
+### NOTE :-  IF YOU WANT TO RUN THIS CODE, THEN RENAME THE FILE " Problem4-java.md " TO " Problem4.java " .
 
 */
 
